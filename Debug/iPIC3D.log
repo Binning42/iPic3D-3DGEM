@@ -1,0 +1,105 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: 名为 convHDF5.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 convHDF5.cpp, vtk3d\convHDF5.cpp。
+  convHDF5_EPAR.cpp
+vtk3d\convHDF5_EPAR.cpp(8): fatal error C1083: 无法打开包括文件: “hdf5.h”: No such file or directory
+  convHDF5.cpp
+vtk3d\convHDF5.cpp(8): fatal error C1083: 无法打开包括文件: “hdf5.h”: No such file or directory
+  test_pskoutput.cc
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKException.h(43): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(181): note: 参见“strerror”的声明
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKException.h(56): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(181): note: 参见“strerror”的声明
+d:\ipic\ipic3d-3dgem\particles\Particles.h(23): error C2061: 语法错误: 标识符“CollectiveIO”
+d:\ipic\ipic3d-3dgem\particles\Particles.h(25): error C2061: 语法错误: 标识符“Field”
+d:\ipic\ipic3d-3dgem\particles\Particles.h(67): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\particles\Particles.h(69): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(26): error C2061: 语法错误: 标识符“CollectiveIO”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(29): error C2061: 语法错误: 标识符“Grid”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(31): error C2061: 语法错误: 标识符“Field”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(33): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(35): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(37): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(39): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(41): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(43): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(45): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(55): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(99): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(101): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(80): warning C4018: “<”: 有符号/无符号不匹配
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(192): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(193): note: 参见对正在编译的 类 模板 实例化 "PSK::OutputAgent<Toa>" 的引用
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(192): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(192): error C2238: 意外的标记位于“;”之前
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(279): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(749): note: 参见对正在编译的 类 模板 实例化 "myOutputAgent<Toa>" 的引用
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(279): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(279): error C2238: 意外的标记位于“;”之前
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(280): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(280): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(280): error C2238: 意外的标记位于“;”之前
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(281): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(281): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(281): error C2238: 意外的标记位于“;”之前
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(282): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(282): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(282): error C2238: 意外的标记位于“;”之前
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(283): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(283): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(283): error C2238: 意外的标记位于“;”之前
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(291): error C2061: 语法错误: 标识符“Field”
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKhdf5adaptor.h(18): fatal error C1083: 无法打开包括文件: “hdf5.h”: No such file or directory
+  testhdf5.cc
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKException.h(43): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(181): note: 参见“strerror”的声明
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKException.h(56): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(181): note: 参见“strerror”的声明
+d:\ipic\ipic3d-3dgem\particles\Particles.h(23): error C2061: 语法错误: 标识符“CollectiveIO”
+d:\ipic\ipic3d-3dgem\particles\Particles.h(25): error C2061: 语法错误: 标识符“Field”
+d:\ipic\ipic3d-3dgem\particles\Particles.h(67): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\particles\Particles.h(69): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(26): error C2061: 语法错误: 标识符“CollectiveIO”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(29): error C2061: 语法错误: 标识符“Grid”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(31): error C2061: 语法错误: 标识符“Field”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(33): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(35): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(37): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(39): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(41): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(43): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(45): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(55): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(99): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\../particles/Particles3Dcomm.h(101): error C2061: 语法错误: 标识符“VirtualTopology3D”
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(80): warning C4018: “<”: 有符号/无符号不匹配
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(192): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(193): note: 参见对正在编译的 类 模板 实例化 "PSK::OutputAgent<Toa>" 的引用
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(192): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(192): error C2238: 意外的标记位于“;”之前
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(279): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(749): note: 参见对正在编译的 类 模板 实例化 "myOutputAgent<Toa>" 的引用
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(279): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(279): error C2238: 意外的标记位于“;”之前
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(280): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(280): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(280): error C2238: 意外的标记位于“;”之前
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(281): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(281): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(281): error C2238: 意外的标记位于“;”之前
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(282): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(282): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(282): error C2238: 意外的标记位于“;”之前
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(283): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(283): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(283): error C2238: 意外的标记位于“;”之前
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKOutput.h(291): error C2061: 语法错误: 标识符“Field”
+d:\ipic\ipic3d-3dgem\pskoutput3d\PSKhdf5adaptor.h(18): fatal error C1083: 无法打开包括文件: “hdf5.h”: No such file or directory
+  Particles3Dcomm.cpp
+d:\ipic\ipic3d-3dgem\particles\../processtopology/VirtualTopology3D.h(12): fatal error C1083: 无法打开包括文件: “mpi.h”: No such file or directory
+  Particles3D.cpp
+d:\ipic\ipic3d-3dgem\particles\../processtopology/VirtualTopology3D.h(12): fatal error C1083: 无法打开包括文件: “mpi.h”: No such file or directory
+  iPIC3D.cpp
+iPIC3D.cpp(7): fatal error C1083: 无法打开包括文件: “mpi.h”: No such file or directory
+  convHDF5.cpp
+convHDF5.cpp(8): fatal error C1083: 无法打开包括文件: “hdf5.h”: No such file or directory
+  ConfigFile.cpp
+  正在生成代码...

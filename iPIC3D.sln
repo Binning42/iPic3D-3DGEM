@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "iPIC3D", "iPIC3D.vcxproj", "{C9FDA951-32B3-4C9F-9909-4A2F9E9B52B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9FDA951-32B3-4C9F-9909-4A2F9E9B52B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9FDA951-32B3-4C9F-9909-4A2F9E9B52B4}.Debug|Win32.Build.0 = Debug|Win32
+		{C9FDA951-32B3-4C9F-9909-4A2F9E9B52B4}.Release|Win32.ActiveCfg = Release|Win32
+		{C9FDA951-32B3-4C9F-9909-4A2F9E9B52B4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
